@@ -382,8 +382,10 @@ npx newman run postman/Soporte-Tecnico-API.postman_collection.json
 
 ## Equipo
 
-| Integrante | Rol | Responsabilidades |
+**Docente:** Bernabe Daniel Inche Ticlavilca
+
+Proyecto desarrollado de forma individual.
+
+| Integrante | Roles | Responsabilidades |
 |---|---|---|
-| _Nombre 1_ | Líder técnico / Arquitectura | Estructura del proyecto, modelo de dominio, repositorio en memoria |
-| _Nombre 2_ | Desarrollador backend | Servicios, reglas de negocio, controladores y validaciones |
-| _Nombre 3_ | QA / Documentación | Manejo de errores, pruebas JUnit y Postman, Swagger y README |
+| Anderson Leonel Ugaz Portales | Arquitectura, desarrollo backend, QA y documentación | Estructura del proyecto, modelo de dominio, repositorio en memoria, servicios, reglas de negocio, controladores, validaciones, manejo de errores, pruebas JUnit y Postman, Swagger y README |
