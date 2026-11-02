@@ -48,7 +48,7 @@ Los datos se guardan **en memoria** (colecciones `ConcurrentHashMap`) mientras l
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/<usuario>/soporte-tecnico-api.git
+git clone https://github.com/andersonugazpor-crypto/soporte-tecnico-api.git
 cd soporte-tecnico-api
 
 # 2. Ejecutar las pruebas automatizadas
